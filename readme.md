@@ -1,5 +1,5 @@
 ###################
-hasil belajar php dan codeigniter. (on progress)
+hasil belajar php dan codeigniter. (finish)
 ###################
 
 hasil belajar php dan codeigniter mengenai simple online shop dan shopping cart, serta pembelajaran codeigniter dan konsep MVC.
